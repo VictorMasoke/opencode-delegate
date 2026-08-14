@@ -34,7 +34,7 @@ for the full guidance Claude follows.
 Copy the skill into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/opencode-delegate.git
+git clone https://github.com/VictorMasoke/opencode-delegate.git
 cp -r opencode-delegate/skills/opencode-delegate ~/.claude/skills/opencode-delegate
 ```
 
